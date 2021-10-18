@@ -1,1 +1,3 @@
 it was the best of time
+
+here is some notes I am making for the branch
